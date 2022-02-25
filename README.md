@@ -1,12 +1,13 @@
-### Olá! Eu sou o Pedro Henrique. ✔️
-<h3 align="center">Um desenvolvedor front-end apaixonado por Tecnologia e Pensamento</h3>
-- [Cursos](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - São cursos técnicos tecnologias, como HTML, CSS, JavaScript, React, NodejS, MongoDB, Bancos de dados SQL em NodejS, Git, GitHub e muito mais
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - Estou escrevendo sobre muitas coisas.
-- [Website](https://fagnerpsantos.dev/) 💻 - Trabalhando nele.
+## Olá! Eu sou o Pedro Henrique. ✔️
+
+<h2 align="center">Um desenvolvedor front-end apaixonado por <br> Tecnologia e Pensamento</h2>
+-👨🏼‍🏫 Cursos - São cursos técnicos tecnologias, como HTML, CSS, JavaScript, React, NodejS, MongoDB, Bancos de dados SQL em NodejS, Git, GitHub e muito mais.<br>
+- 💻 Sites - Trabalhando nele.
+<br/>
+<br/>
 
 <h3 align="left">Contatos</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lpedrogg" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="lpedrogg"height="30" width="40" /></a>
+<p align="left"> <a href="https://linkedin.com/in/lpedrogg" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="lpedrogg"height="30" width="40" /></a>
 </p>
 <h3 align="left">Tecnologias:</h3>
 <div style="display: inline-block"/>
@@ -17,9 +18,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </div>
-<br/>
-<br/>
-<div>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lpedrobr&show_icons=true&theme=dark&locale=en&layout=compact" alt="lpedrobr" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpedrobr&show_icons=true&theme=dark&locale=en" alt=" lpedrobr" /></p>
-</div>
+<br>
+<br>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lpedrobr&show_icons=true&theme=dark&locale=en&layout=compact" alt="lpedrobr" /></p><br>
