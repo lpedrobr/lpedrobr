@@ -1,10 +1,8 @@
 ### Olá! Eu sou o Pedro Henrique. ✔️
-
+<h3 align="center">Um desenvolvedor front-end apaixonado por Tecnologia e Pensamento</h3>
 - [Cursos](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - São cursos técnicos tecnologias, como HTML, CSS, JavaScript, React, NodejS, MongoDB, Bancos de dados SQL em NodejS, Git, GitHub e muito mais
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - Estou escrevendo sobre muitas coisas.
 - [Website](https://fagnerpsantos.dev/) 💻 - Trabalhando nele.
-
-<h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3>
 
 <h3 align="left">Contatos</h3>
 <p align="left">
