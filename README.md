@@ -1,1 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/https://github.com/lpedrobr)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpedrobr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
