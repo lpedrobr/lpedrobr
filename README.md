@@ -58,4 +58,8 @@
   
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  </p>
+</p>
+
+
+
+![Snake animation](https://github.com/lpedrobr/lpedrobr/blog/output/github-contribution-grid-snake.svg)
