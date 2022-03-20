@@ -1,7 +1,13 @@
-## Olá eu sou Pedro Henrique, desenvolvedor frontend!
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ 👨‍🚀🤟 Olá, meu nome é Pedro Henrique. Sou <strong>desenvolvedor frontend</strong>.
+</p>
+
+<p align="left">
+ 👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Node.JS.</strong>
+</p>
+
+<p align="left">
+⚙️ Ferramentas: <strong>VS Code, Figma, Trello, Notion, Git e GitHub.</strong>
 </p>
 
 <div align="center">
@@ -17,7 +23,9 @@
   <img align="center" alt="Pedro-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pedro-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+  <img align="center" alt="Pedro-React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"" />
+  <img align="center" alt="Pedro-git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </div>
 </br>
 
 ## Contatos
