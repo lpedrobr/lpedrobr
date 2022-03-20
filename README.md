@@ -4,9 +4,13 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lpedrobr&theme=tokyonight"/></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpedrobr&layout=compact&theme=tokyonight" /></a>
-
+<div align="center">
+  <a href="https://github.com/lpedrobr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpedrobr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpedrobr&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+## Software
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -18,8 +22,7 @@
 </div>
 </br>
 
-##
-
+## Contatos
 <p align="left">
   <a href="mailto: pedrohenriqueda.soliveira@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
