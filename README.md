@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
- 👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Node.JS.</strong>
+ 👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
