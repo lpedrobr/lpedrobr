@@ -1,7 +1,7 @@
 ![Seja bem-vindo](https://user-images.githubusercontent.com/98068434/166393570-9f61e558-6df6-4e56-99b3-5284cee8d67c.gif)
 <h1 align="center">Oi, meu nome é Pedro Henrique!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&color=3743F3&center=true&vCenter=true&lines=Desenvolvedor+FrontEnd+Jr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&color=3743F3&center=true&vCenter=true&lines=Desenvolvedor+Frontend+jr)](https://git.io/typing-svg)
 <br/>
 **Sobre mim**
 -  Olá. Eu tenho 22 anos moro em fortaleza, Ceará.
