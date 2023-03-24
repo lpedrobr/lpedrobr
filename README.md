@@ -4,8 +4,7 @@
 <a href="https://www.behance.net/200a4afa">
 <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="behance logo"  />
 </a>
-<a href="www.linkedin.com/in/
-pedrgzera">
+<a href="www.linkedin.com/in/pedrgzera">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
 </a>
 </div>
